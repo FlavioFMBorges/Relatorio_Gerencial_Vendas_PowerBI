@@ -1,6 +1,6 @@
-# Relatorio Gerencial Vendas PowerBI
+# Relatorio Gerencial de Vendas feito com PowerBI
 
-## Analise Power BI dataset financeiro, botões e links.
+### Analise Power BI dataset financeiro, botões e links.
 Criação de 2 relatórios no Power BI com uso de dataset sample do próprio PBI que está pasta Dataset. Arquivos de imagens usados sobre o PowerBI Online estão nas pastas [Imagens](https://github.com/FlavioFMBorges/AnalisePBI/tree/main/jpg) e [PDF](https://github.com/FlavioFMBorges/AnalisePBI/tree/main/pdf).
 
 O sample tem as seguintes colunas:
