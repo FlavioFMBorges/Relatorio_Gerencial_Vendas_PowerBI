@@ -1,7 +1,8 @@
 # Relatório Gerencial de Vendas feito com PowerBI
 
 ### Análise de um dataset financeiro e criação de um Relatório interativo com botões e links.
-Criação de 2 relatórios no Power BI com uso de dataset sample do próprio PBI que está pasta [Dataset](https://github.com/FlavioFMBorges/Relatorio_Gerencial_Vendas_PowerBI/tree/main/Dataset). Arquivos de imagens e visuais usados sobre o PowerBI Online estão nas pastas [Gifs](https://github.com/FlavioFMBorges/Relatorio_Gerencial_Vendas_PowerBI/tree/main/Gifs) e [Visuais](https://github.com/FlavioFMBorges/Relatorio_Gerencial_Vendas_PowerBI/tree/main/Visuais).
+Criação de 2 relatórios no Power BI com uso de dataset sample do próprio PBI que está pasta [Dataset](https://github.com/FlavioFMBorges/Relatorio_Gerencial_Vendas_PowerBI/tree/main/Dataset). Arquivos de imagens e visuais usados sobre o PowerBI Online estão nas pastas [Gifs](https://github.com/FlavioFMBorges/Relatorio_Gerencial_Vendas_PowerBI/tree/main/Gifs) e [Visuais](https://github.com/FlavioFMBorges/Relatorio_Gerencial_Vendas_PowerBI/tree/main/Visuais).  
+O vídeo mostrando o uso dos botões e interatividade pode ser acessado pelo [link](https://youtu.be/27GVxWpmCQk).
 
 O sample tem as seguintes colunas:
 
@@ -19,7 +20,7 @@ Temos 5 cards com o Total de vendas, Unidades vendidas, Descontos, Vendas brutas
 Temos acima dos cards do lado direito um gráfico em que podemos selecionar um intervalo de tempo, e ao lado temos uma imagem de uma borracha que ao ser apertada retorna os valores e todas modificações do relatório do mesmo modo como estava no início.
 
 **Gráfico 0** - 
-Gráfico de vendas.
+Gráfico de vendas mensal.
 
 **Gráfico 1, 2 e 3** - 
 Vendas por Segmento, Vendas por produto e vendas por país.
@@ -56,6 +57,7 @@ Botão link que retorna para a primeira página do relatório, que é o Relatór
 
 **Botão bandeirola** - 
 Abre uma janela para perguntas e respostas sobre o dados do dataset.
+
 
 
 
