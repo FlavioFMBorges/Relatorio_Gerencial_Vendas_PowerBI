@@ -1,7 +1,8 @@
 # Relatório Gerencial de Vendas feito com PowerBI
 
 ### Análise de um dataset financeiro e criação de um Relatório interativo com botões e links.
-Criação de 2 relatórios no Power BI com uso de dataset sample do próprio PBI que está pasta [Dataset](https://github.com/FlavioFMBorges/Relatorio_Gerencial_Vendas_PowerBI/tree/main/Dataset). Arquivos de imagens e visuais usados sobre o PowerBI Online estão nas pastas [Gifs](https://github.com/FlavioFMBorges/Relatorio_Gerencial_Vendas_PowerBI/tree/main/Gifs) e [Visuais](https://github.com/FlavioFMBorges/Relatorio_Gerencial_Vendas_PowerBI/tree/main/Visuais).  
+Criação de 2 relatórios no Power BI com uso de dataset sample do próprio PBI que está pasta [Dataset](https://github.com/FlavioFMBorges/Relatorio_Gerencial_Vendas_PowerBI/tree/main/Dataset). Arquivos de imagens e visuais usados sobre o PowerBI Online estão nas pastas [Gifs](https://github.com/FlavioFMBorges/Relatorio_Gerencial_Vendas_PowerBI/tree/main/Gifs) e [Visuais](https://github.com/FlavioFMBorges/Relatorio_Gerencial_Vendas_PowerBI/tree/main/Visuais). Os arquivos Pbix e pdf estão na pasta 
+[Pbix e pdf](https://github.com/FlavioFMBorges/Relatorio_Gerencial_Vendas_PowerBI/Pbix_e_pdf). 
 O vídeo mostrando o uso dos botões e interatividade pode ser acessado pelo [link](https://youtu.be/27GVxWpmCQk).
 
 O sample tem as seguintes colunas:
