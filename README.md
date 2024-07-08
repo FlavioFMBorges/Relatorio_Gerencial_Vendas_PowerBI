@@ -9,7 +9,7 @@ Segment | Country | Product | Discount Band | Units Sold | Manufacturing Price |
 
 Página 1 - 
 Relatório de Vendas:
-![Relatório de Vendas Considerando Produtos e Segmentos](https://github.com/FlavioFMBorges/AnalisePBI/blob/main/jpg/pag1-01.jpg)
+![https://github.com/FlavioFMBorges/Relatorio_Gerencial_Vendas_PowerBI/blob/main/Gifs/pagina_1.gif)
 
 
 Cards - 
@@ -36,7 +36,7 @@ Página 2 -
 
 
 Relatório de Lucro Detalhado
-![Relatório de Lucro Detalhado](https://github.com/FlavioFMBorges/AnalisePBI/blob/main/jpg/pag2-01.jpg)
+![https://github.com/FlavioFMBorges/Relatorio_Gerencial_Vendas_PowerBI/blob/main/Gifs/pagina_2.gif)
 
 Gráfico 0 - 
 Neste gráfico em que se podemos escolher o ano para visualizar. Este gráfico foi baixado da página de visuais do Power BI.
